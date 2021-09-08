@@ -1,0 +1,31 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+.search {
+    color: rgb(0, 184, 92);
+    background-color: rgb(233, 233, 233);
+    margin: 20px 0px 0px 50px;
+    width: 80px;
+    height: 40px;
+    border-radius: 25%;
+}
+
+.plus {
+    color: white;
+    background-color: rgb(22, 214, 166);
+    margin: 40px 0px 0px 60px;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.createAccount {
+    color: white;
+    background-color: blue;
+    margin: 40px;
+    width: 100px;
+    height: 40px;
+}
